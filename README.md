@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HasanCanKilickiran
-- 👀 I’m interested in C/C++ applications in Linux.
+- 👀 I’m interested in C/C++ applications in Embedded Linux.
 - 🌱 I’m currently learning C++.
 <!---
 - 💞️ I’m looking to collaborate on ...
